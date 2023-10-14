@@ -33,9 +33,9 @@
     {\scshape\Large Lagrange and Newton Divided-Difference Interpolating Polynomials\par}
     \vspace{3cm}
     \textbf\large\scshape{\par}
+    \vspace{2.5cm}
+    {\Large Vergara Pareja Gustavo\\Gómez Sibaja Santiago\\Londoño Mesa José Donato\\Zabaleta Nisperuza Andrés\par}
     \vspace{3cm}
-    {\Large Vergara Pareja Gustavo\\Valdéz Godin Aldair\\Pila Mendoza José\par}
-    \vspace{4cm}
     {\scshape\Large Grupo N°2 (32-38) \par}
     {\scshape\Large Programa de Ingeniería Mecánica \par}
     {\scshape\Large Universidad de Córdoba\par}
@@ -318,6 +318,23 @@ b)
         \hline
     \end{tabular}
 \end{table}
+Para los puntos las diferencias divididas quedan de la forma:
+
+\begin{center}
+    \begin{tabular}{|c|c|c|c|c|c|}
+    \hline
+    \textbf{$j$} & \textbf{$X$} & \textbf{1st Divided Diff} & \textbf{2nd Divided Diff} & \textbf{3rd Divided Diff} & \textbf{4th Divided Diff} \\
+    \hline
+    0 & 0 & 1 & xxxxxxxxxxx & xxxxxxxxxxx & xxxxxxxxxxx\\
+    \hline
+    1 & 0.5 & 0.9098 & -0.1804 & xxxxxxxxxxx & xxxxxxxxxxx \\
+    \hline
+    2 & 0.9 & 0.7726 & -0.3430 & -1.3085 & xxxxxxxxxxx \\
+    \hline
+    3 & 1.2 & 0.6626 & -0.6667 & -1.0767 & -7.9507 \\
+    \hline
+    \end{tabular}
+    \end{center}    
 
 \begin{equation*}
     \displaystyle{P_1(x) = 1+\left(\frac{1}{0-\frac{1}{2}}+\frac{\frac{4549}{5000}}{\frac{1}{2}-0}\right)\left(x-0\right)}
@@ -358,7 +375,7 @@ b)
     \includegraphics[width=0.6\textwidth]{37a.png}
     \caption{Confirmación con NewtonInterp}
 \end{figure}
-
+\newpage
 \begin{itemize}
     \item 38. For the data in the following table, construct a divided differences
           table and interpolate at x = 0.3 using Newton interpolating
@@ -374,7 +391,22 @@ b)
         \hline
     \end{tabular}
 \end{table}
-
+Para los puntos las diferencias divididas quedan de la forma:
+\begin{center}
+    \begin{tabular}{|c|c|c|c|c|c|}
+    \hline
+    \textbf{$j$} & \textbf{$X$} & \textbf{1st Divided Diff} & \textbf{2nd Divided Diff} & \textbf{3rd Divided Diff} & \textbf{4th Divided Diff} \\
+    \hline
+    0 & 0 & 1 & xxxxxxxxxxx & xxxxxxxxxxx & xxxxxxxxxxx\\
+    \hline
+    1 & 0.4 & 2.68 & 4.2000 & xxxxxxxxxxx & xxxxxxxxxxx \\
+    \hline
+    2 & 0.8 & 5.79 & 7.7750 & 8.9375 & xxxxxxxxxxx \\
+    \hline
+    3 & 1 & 8.75 & 14.8000 & 35.1250 & 130.9375 \\
+    \hline
+    \end{tabular}
+    \end{center}
 \begin{equation*}
     \displaystyle{P_1(x) = 1+\left(\frac{1}{0-\frac{2}{5}}+\frac{\frac{67}{25}}{\frac{2}{5}-0}\right)\left(x-0\right)}    
 \end{equation*}

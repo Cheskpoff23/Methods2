@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.9.19)  13 OCT 2023 21:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (MiKTeX 23.9) (preloaded format=pdflatex 2023.9.19)  14 OCT 2023 12:28
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -979,42 +979,43 @@ File: 36b.png Graphic file (type png)
 Package pdftex.def Info: 36b.png  used on input line 301.
 (pdftex.def)             Requested size: 234.87769pt x 169.31644pt.
  [9 <./36a.png> <./36b.png>]
-Overfull \hbox (65.43896pt too wide) detected at line 333
+Overfull \hbox (65.43896pt too wide) detected at line 350
 []
  []
 
 
-Overfull \hbox (30.61383pt too wide) detected at line 345
+Overfull \hbox (30.61383pt too wide) detected at line 362
 [] \OT1/cmr/m/n/10 + []
  []
 
-<37a.png, id=65, 381.67593pt x 307.90031pt>
+[10]
+<37a.png, id=70, 381.67593pt x 307.90031pt>
 File: 37a.png Graphic file (type png)
 <use 37a.png>
-Package pdftex.def Info: 37a.png  used on input line 358.
+Package pdftex.def Info: 37a.png  used on input line 375.
 (pdftex.def)             Requested size: 281.8561pt x 227.38223pt.
-[10]
-Overfull \hbox (49.49445pt too wide) detected at line 389
+ [11 <./37a.png>]
+Overfull \hbox (49.49445pt too wide) detected at line 421
 []
  []
 
 
-Overfull \hbox (49.49445pt too wide) detected at line 398
+Overfull \hbox (49.49445pt too wide) detected at line 430
 []
  []
 
 
-Overfull \hbox (42.31078pt too wide) detected at line 401
+Overfull \hbox (42.31078pt too wide) detected at line 433
 \OT1/cmr/m/n/10 + []
  []
 
-[11 <./37a.png>]
-<38.png, id=74, 381.67593pt x 307.1475pt>
+[12]
+<38.png, id=79, 381.67593pt x 307.1475pt>
 File: 38.png Graphic file (type png)
 <use 38.png>
-Package pdftex.def Info: 38.png  used on input line 412.
+Package pdftex.def Info: 38.png  used on input line 444.
 (pdftex.def)             Requested size: 281.8561pt x 226.8263pt.
- [12 <./38.png>] [13] [14] (Methods2.aux
+ [13 <./38.png>] [14] [15] (Methods2.aux
 LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
 )
@@ -1031,17 +1032,17 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 30164 strings out of 475248
- 733339 string characters out of 5757813
- 1943801 words of memory out of 5000000
- 51149 multiletter control sequences out of 15000+600000
+ 30167 strings out of 475248
+ 733403 string characters out of 5757813
+ 1945801 words of memory out of 5000000
+ 51152 multiletter control sequences out of 15000+600000
  563775 words of font info for 57 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  99i,10n,103p,819b,609s stack positions out of 10000i,1000n,20000p,200000b,200000s
- <C:\Users\gusta\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1440.pk><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Methods2.pdf (15 pages, 245304 bytes).
+ <C:\Users\gusta\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1440.pk><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/gusta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on Methods2.pdf (16 pages, 262009 bytes).
 PDF statistics:
- 116 PDF objects out of 1000 (max. 8388607)
+ 124 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  78 words of extra memory for PDF output out of 10000 (max. 10000000)
 
